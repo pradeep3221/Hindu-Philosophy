@@ -76,6 +76,24 @@ are central to Hindu culture and literature, offering profound insights into dha
 16. Matsya Purana
 17. Garuda Purana
 18. Brahmanda Purana
+1. Brahma Purana
+2. Padma Purana
+3. Vishnu Purana
+4. Shiva Purana
+5. Bhagavata Purana
+6. Narada Purana
+7. Markandeya Purana
+8. Agni Purana
+9. Bhavishya Purana
+10. Brahmavaivarta Purana
+11. Linga Purana
+12. Varaha Purana
+13. Skanda Purana
+14. Vamana Purana
+15. Kurma Purana
+16. Matsya Purana
+17. Garuda Purana
+18. Brahmanda Purana
 
 #### Upapuranas
 
@@ -109,9 +127,16 @@ Texts related to temple rituals and worship practices
 1. Shaiva Agamas
 2. Vaishnava Agamas
 3. Shakta Agamas
+1. Shaiva Agamas
+2. Vaishnava Agamas
+3. Shakta Agamas
 
 #### Tantras
 
+1. Mantras
+2. Yantras
+3. Mudras
+4. Chakras
 1. Mantras
 2. Yantras
 3. Mudras
