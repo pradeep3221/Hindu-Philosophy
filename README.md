@@ -1,6 +1,3 @@
-# Hindu-Philosophy
-Hindu philosophy or Vedic philosophy is the set of Indian philosophical systems that developed in tandem with early Hindu religious traditions during the iron and classical ages of India
-
 # Collection of spiritual texts in Hinduism
 
 Hinduism boasts a rich tapestry of spiritual texts, each offering unique insights into the religion's philosophy, rituals, and mythology.
@@ -56,24 +53,24 @@ are central to Hindu culture and literature, offering profound insights into dha
 
 #### Mahapuranas
 
-- - 1. Brahma Purana
-        2.  Padma Purana
-        3.  Vishnu Purana
-        4.  Shiva Purana
-        5.  Bhagavata Purana
-        6.  Narada Purana
-        7.  Markandeya Purana
-        8.  Agni Purana
-        9.  Bhavishya Purana
-        10. Brahmavaivarta Purana
-        11. Linga Purana
-        12. Varaha Purana
-        13. Skanda Purana
-        14. Vamana Purana
-        15. Kurma Purana
-        16. Matsya Purana
-        17. Garuda Purana
-        18. Brahmanda Purana
+1. Brahma Purana
+2. Padma Purana
+3. Vishnu Purana
+4. Shiva Purana
+5. Bhagavata Purana
+6. Narada Purana
+7. Markandeya Purana
+8. Agni Purana
+9. Bhavishya Purana
+10. Brahmavaivarta Purana
+11. Linga Purana
+12. Varaha Purana
+13. Skanda Purana
+14. Vamana Purana
+15. Kurma Purana
+16. Matsya Purana
+17. Garuda Purana
+18. Brahmanda Purana
 
 #### Upapuranas
 
@@ -104,16 +101,16 @@ Texts related to temple rituals and worship practices
 
 #### Agamas
 
-- - 1. Shaiva Agamas
-        2.  Vaishnava Agamas
-        3.  Shakta Agamas
+1. Shaiva Agamas
+2. Vaishnava Agamas
+3. Shakta Agamas
 
 #### Tantras
 
-- - 1. Mantras
-        2.  Yantras
-        3.  Mudras
-        4.  Chakras
+1. Mantras
+2. Yantras
+3. Mudras
+4. Chakras
 
 ## Other Philosophical Texts
 
@@ -123,17 +120,12 @@ A 700-verse dialogue between Prince Arjuna and the god Krishna, found within the
 
 ### Aranyakas
 
-- - - Aitareya Aranyaka
-      - **Taittiriya Aranyaka: Linked to the Yajurveda, it contains hymns, mantras, and meditative practices.**
-      - Brihadaranyaka
+- - 1. Aitareya Aranyaka
+        2.  **Taittiriya Aranyaka: Linked to the Yajurveda, it contains hymns, mantras, and meditative practices.**
+        3.  Brihadaranyaka
 
 ### Yoga Sutras by Patanjali
 
 ### Brahmanas
 
 ### Sutras
-
-
-References:
- - [Hindu philosophy wiki](https://en.wikipedia.org/wiki/Hindu_philosophy)
-
