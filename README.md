@@ -120,9 +120,9 @@ A 700-verse dialogue between Prince Arjuna and the god Krishna, found within the
 
 ### Aranyakas
 
-- - 1. Aitareya Aranyaka
-        2.  **Taittiriya Aranyaka: Linked to the Yajurveda, it contains hymns, mantras, and meditative practices.**
-        3.  Brihadaranyaka
+1. Aitareya Aranyaka
+2.  Taittiriya Aranyaka: Linked to the Yajurveda, it contains hymns, mantras, and meditative practices.
+3.  Brihadaranyaka
 
 ### Yoga Sutras by Patanjali
 
