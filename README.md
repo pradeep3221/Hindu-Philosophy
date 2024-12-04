@@ -1,11 +1,12 @@
-# Hindu-Philosophy
 Hindu philosophy or Vedic philosophy is the set of Indian philosophical systems that developed in tandem with early Hindu religious traditions during the iron and classical ages of India
+
+# Hindu-Philosophy
 
 # Collection of spiritual texts in Hinduism
 
 Hinduism boasts a rich tapestry of spiritual texts, each offering unique insights into the religion's philosophy, rituals, and mythology.
 
-categorization of the major Hindu spiritual
+> categorization of the major Hindu spiritual
 
 ## Shruti (Heard)
 
@@ -56,15 +57,15 @@ are central to Hindu culture and literature, offering profound insights into dha
 
 #### Mahapuranas
 
-1.  Brahma Purana
-2.  Padma Purana
-3.  Vishnu Purana
-4.  Shiva Purana
-5.  Bhagavata Purana
-6.  Narada Purana
-7.  Markandeya Purana
-8.  Agni Purana
-9.  Bhavishya Purana
+1. Brahma Purana
+2. Padma Purana
+3. Vishnu Purana
+4. Shiva Purana
+5. Bhagavata Purana
+6. Narada Purana
+7. Markandeya Purana
+8. Agni Purana
+9. Bhavishya Purana
 10. Brahmavaivarta Purana
 11. Linga Purana
 12. Varaha Purana
@@ -105,15 +106,15 @@ Texts related to temple rituals and worship practices
 #### Agamas
 
 1. Shaiva Agamas
-2.  Vaishnava Agamas
-3.  Shakta Agamas
+2. Vaishnava Agamas
+3. Shakta Agamas
 
 #### Tantras
 
 1. Mantras
-2.  Yantras
-3.  Mudras
-4.  Chakras
+2. Yantras
+3. Mudras
+4. Chakras
 
 ## Other Philosophical Texts
 
@@ -133,7 +134,6 @@ A 700-verse dialogue between Prince Arjuna and the god Krishna, found within the
 
 ### Sutras
 
-
 References:
- - [Hindu philosophy wiki](https://en.wikipedia.org/wiki/Hindu_philosophy)
 
+- [Hindu philosophy wiki](https://en.wikipedia.org/wiki/Hindu_philosophy)
