@@ -1,5 +1,7 @@
-Hindu philosophy or Vedic philosophy is the set of Indian philosophical systems that developed in tandem with early Hindu religious traditions during the iron and classical ages of India
-Darshanas
+Hindu philosophy or Vedic philosophy is the set of Indian philosophical systems that developed in tandem with early Hindu religious traditions during the iron and classical ages of India.
+In Indian tradition, the word used for philosophy is Darshana (Sanskrit: दर्शन; meaning: "viewpoint or perspective"), from the Sanskrit root 'दृश' (drish) meaning 'to see, to experience'.[1] \
+Darshanas \
+Vedic Literature
 
 # Hindu-Philosophy
 
