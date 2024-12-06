@@ -1,7 +1,7 @@
 school of thought in philosophy
 
 # School of thoughts in Vedic philosophy (Indian philosophy)
-##Āstika schools
+##Āstika
 The six most studied schools of Indian philosophy in vedic religion, also known as the **orthodox** schools, are: 
 1. **Nyāya**: Focuses on logic and the belief that logical reasoning is the key to salvation. logic and justice as the core founded by* Gotama/Aksapads* — with center as the ancient Mithila university.
 2. **Vaiśeṣika**: Focuses on atomic theory and is considered a realistic and objective philosophy of the universe. atomist school with naturism and metaphysics as stress. Founded *Kanada Kashyapa*. 
@@ -10,7 +10,7 @@ The six most studied schools of Indian philosophy in vedic religion, also known 
 5.**Mīmāṃsā  (Purva Mimasa):** Focuses on the science of furtive work. focuses on critical investigation of vedas, dharma founded by Jamini. Compared to Vedanta, it places more emphasis on rituals and yajnas.
 6. **Vedānta (Uttara Mimasa)**: Focuses on the science of God realization.  empahsis on the upanishads, Brahma Sutras and Bhagvad Gita. Vyasa is the key sage for this. 
 
-##Nāstika schools
+## Nāstika
 The 5 religious schools that declined to believe in the supremacy of Veda. 2 of them became independent religions, while the philosophies of other 3 merged with other faiths. by contrast, are those who deny all the respective definitions of āstika;[5] they do not believe in the existence of Self.
 
 The five major ** non-Vedic** or **heterodox** schools are: 
@@ -22,15 +22,15 @@ The five major ** non-Vedic** or **heterodox** schools are:
 
 ## Loka
 Folk traditions - these were faiths that are quite common across rural India and of indeterminant origin. This group is often left out in the discussion of Indian philosophies.
-1. Karni Mata
-2. Dattareya
-3. Bhairava (Tantric)
-4. Tarini
-5. Ayyappa
-6. Jagannath
-7. Danteshwari
-8. Mariamman
-9. Kali
+1. KarniMata("Karni Mata")
+2. Dattareya("Dattareya")
+3. Bhairava("Bhairava (Tantric)")
+4. Tarini("Tarini")
+5. Ayyappa("Ayyappa")
+6. Jagannath("Jagannath")
+7. Danteshwari("Danteshwari")
+8. Mariamman("Mariamman")
+9. Kali("Kali")
 
 
 ### Reference:
