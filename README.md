@@ -135,11 +135,8 @@ Texts related to temple rituals and worship practices
 3. Shakta Agamas
 
 #### Tantras
+Hindu tantric literature. Tantra means  "to weave" or "compose"
 
-1. Mantras
-2. Yantras
-3. Mudras
-4. Chakras
 1. Mantras
 2. Yantras
 3. Mudras
